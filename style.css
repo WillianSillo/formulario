@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.input-error {
+    color: red;
+    display: none;
+    font-size: 0.9em;
+}
+
+.d-none {
+    display: none !important;
+}
